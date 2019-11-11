@@ -1,6 +1,6 @@
 name: cross_storage
 description: JsInterop for zendesk/cross-storage
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/moczix/dart_cross_storage
 author: Moczniak <czornypan@gmail.com>
 
